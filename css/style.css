@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+section *{
+    margin-bottom: 30px;
+}
+footer{
+    padding: 30px 0;
+}
+.navbar{
+    background-color:#003030;
+}
+#quemSomos{
+    background-color:#007070;
+}
+#servicos{
+    background-color: #009090;
+}
+.bg-footer{
+    background-color: #001010;
+}
+.c-white{
+    color: #fefefe;
+}
+.margin{
+   margin-bottom: 30px;
+}
+
+.img-squad{
+    max-width: 100%;
+    width: 300px;
+    height: 300px;
+}
